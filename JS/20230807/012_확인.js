@@ -1,4 +1,4 @@
-let value = 0
+let value = 0 ;
 [10, 20, 30].forEach(v =>
     console.log(v)
 )
